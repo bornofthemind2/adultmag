@@ -1,0 +1,25 @@
+export const RAW_CSV_DATA = `Category,Title,Brand,Price,Availability,Short Description,Product URL,Image URL
+Playboy,Playboy 1973 04 April,PLAYBOY,£14.99,Currently unavailable,Playboy 1973 04 April,https://www.rambooks.com/playboy/playboy-1973-04-april.html,https://www.rambooks.com/3204-home_default/playboy-1973-04-april.jpg
+Playboy,Playboy 1975 04 April,PLAYBOY,£14.99,In stock,Playboy 1975 04 April,https://www.rambooks.com/playboy/playboy-1975-04-april.html,https://www.rambooks.com/3205-home_default/playboy-1975-04-april.jpg
+Playboy,Playboy 1975 05 May,PLAYBOY,£14.99,Currently unavailable,Playboy 1975 05 May,https://www.rambooks.com/playboy/playboy-1975-05-may.html,https://www.rambooks.com/3206-home_default/playboy-1975-05-may.jpg
+Playboy,Playboy 1975 07 July,PLAYBOY,£14.99,In stock,Playboy 1975 07 July,https://www.rambooks.com/playboy/playboy-1975-07-july.html,https://www.rambooks.com/3207-home_default/playboy-1975-07-july.jpg
+Playboy,Playboy 1976 07 July,PLAYBOY,£14.99,In stock,Playboy 1976 07 July,https://www.rambooks.com/playboy/playboy-1976-07-july.html,https://www.rambooks.com/3208-home_default/playboy-1976-07-july.jpg
+Playboy,Playboy November 1976,PLAYBOY,£19.99,In stock,Playboy 1976 NovIn very good condition.,https://www.rambooks.com/playboy/playboy-november-1976.html,https://www.rambooks.com/3209-home_default/playboy-november-1976.jpg
+Playboy,Playboy 1977 10 Oct,PLAYBOY,£14.99,In stock,Playboy 1977 10 Oct,https://www.rambooks.com/playboy/playboy-1977-10-oct.html,https://www.rambooks.com/3210-home_default/playboy-1977-10-oct.jpg
+Playboy,Playboy 1980 01 Jan,PLAYBOY,£14.99,In stock,Playboy 1980 01 Jan,https://www.rambooks.com/playboy/playboy-1980-01-jan.html,https://www.rambooks.com/3211-home_default/playboy-1980-01-jan.jpg
+Playboy,Playboy 1980 03 March,PLAYBOY,£19.99,In stock,Playboy 1980 03 March,https://www.rambooks.com/playboy/playboy-1980-03-march.html,https://www.rambooks.com/3212-home_default/playboy-1980-03-march.jpg
+Playboy,Playboy 1980 07 July,PLAYBOY,£14.99,In stock,Playboy 1980 07 July,https://www.rambooks.com/playboy/playboy-1980-07-july.html,https://www.rambooks.com/3213-home_default/playboy-1980-07-july.jpg
+Playboy,Playboy 1980 08 Aug,PLAYBOY,£19.99,In stock,Playboy 1980 08 Aug,https://www.rambooks.com/playboy/playboy-1980-08-aug.html,https://www.rambooks.com/3214-home_default/playboy-1980-08-aug.jpg
+Playboy,Playboy 1980 09 Sept,PLAYBOY,£14.99,In stock,Playboy 1980 09 Sept,https://www.rambooks.com/playboy/playboy-1980-09-sept.html,https://www.rambooks.com/3215-home_default/playboy-1980-09-sept.jpg
+Playboy,Playboy 1980 10 Oct,PLAYBOY,£14.99,In stock,Playboy 1980 10 Oct,https://www.rambooks.com/playboy/playboy-1980-10-oct.html,https://www.rambooks.com/3216-home_default/playboy-1980-10-oct.jpg
+Playboy,Playboy November 1980,PLAYBOY,£14.99,Currently unavailable,Playboy 1980 Nov,https://www.rambooks.com/playboy/playboy-november-1980.html,https://www.rambooks.com/3217-home_default/playboy-november-1980.jpg
+Playboy,Playboy 1981 02 Feb,PLAYBOY,£14.99,In stock,Playboy 1981 02 Feb,https://www.rambooks.com/playboy/playboy-1981-02-feb.html,https://www.rambooks.com/3218-home_default/playboy-1981-02-feb.jpg
+Playboy,Playboy 1981 05 May,PLAYBOY,£14.99,In stock,Playboy 1981 05 May,https://www.rambooks.com/playboy/playboy-1981-05-may.html,https://www.rambooks.com/3219-home_default/playboy-1981-05-may.jpg
+Playboy,Playboy 1981 08 Aug,PLAYBOY,£14.99,Currently unavailable,Playboy 1981 08 Aug,https://www.rambooks.com/playboy/playboy-1981-08-aug.html,https://www.rambooks.com/3220-home_default/playboy-1981-08-aug.jpg
+Playboy,Playboy 1981 10 Oct,PLAYBOY,£14.99,In stock,Playboy 1981 10 Oct,https://www.rambooks.com/playboy/playboy-1981-10-oct.html,https://www.rambooks.com/3221-home_default/playboy-1981-10-oct.jpg
+Playboy,Playboy 1982 02 Feb,PLAYBOY,£14.99,In stock,Playboy 1982 02 Feb,https://www.rambooks.com/playboy/playboy-1982-02-feb.html,https://www.rambooks.com/3222-home_default/playboy-1982-02-feb.jpg
+Playboy,Playboy 1982 07 July,PLAYBOY,£14.99,In stock,Playboy 1982 07 July,https://www.rambooks.com/playboy/playboy-1982-07-july.html,https://www.rambooks.com/3223-home_default/playboy-1982-07-july.jpg
+Playboy,Playboy 1982 08 Aug,PLAYBOY,£14.99,In stock,Playboy 1982 08 Aug,https://www.rambooks.com/playboy/playboy-1982-08-aug.html,https://www.rambooks.com/3224-home_default/playboy-1982-08-aug.jpg
+Playboy,Playboy 1982 10 Oct,PLAYBOY,£14.99,In stock,Playboy 1982 10 Oct,https://www.rambooks.com/playboy/playboy-1982-10-oct.html,https://www.rambooks.com/3225-home_default/playboy-1982-10-oct.jpg
+Playboy,Playboy 1982 12 Dec,PLAYBOY,£14.99,In stock,Playboy 1982 12 Dec,https://www.rambooks.com/playboy/playboy-1982-12-dec.html,https://www.rambooks.com/3226-home_default/playboy-1982-12-dec.jpg
+Playboy,Playboy 1983 03 March,PLAYBOY,£14.99,In stock,Playboy 1983 03 March,https://www.rambooks.com/playboy/playboy-1983-03-march.html,https://www.rambooks.com/3227-home_default/playboy-1983-03-march.jpg`;
